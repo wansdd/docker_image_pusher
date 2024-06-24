@@ -4,4 +4,6 @@
 #zhyever/mmdetection3d:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-lilydedbb/mmdetection3d:vision-20211231_1109
+#lilydedbb/mmdetection3d:vision-20211231_1109
+hxing/mmdetection:v1
+apulistech/mmdetection:v2.0
