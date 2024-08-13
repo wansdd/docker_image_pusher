@@ -7,4 +7,5 @@
 #lilydedbb/mmdetection3d:vision-20211231_1109
 #hxing/mmdetection:v1
 #apulistech/mmdetection:v2.0
-leoxiao/openmpi3.1.2-cuda10.2-cudnn8-ubuntu18.04:pt1.8.1-lts
+#leoxiao/openmpi3.1.2-cuda10.2-cudnn8-ubuntu18.04:pt1.8.1-lts
+zhulinxu123/cuda10.0-cudnn7-py3.6.9-ubantu18.04
