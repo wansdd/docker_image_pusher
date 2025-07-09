@@ -1,4 +1,4 @@
-#nginx
+nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #zhyever/mmdetection3d:latest
@@ -11,4 +11,4 @@
 #zhulinxu123/cuda10.0-cudnn7-py3.6.9-ubantu18.04
 #kshitiz55/pytorch15_cuda101
 #boystar/ubantu:latest
-nvidia/cuda:11.8.0-devel-ubuntu22.04
+#nvidia/cuda:11.8.0-devel-ubuntu22.04
